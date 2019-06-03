@@ -24,17 +24,14 @@ featuretools
 matplotlib
 
 eg:
-import tkinter as tk
-import pandas as pd
-import numpy as np
-from pandas import DataFrame
-import utils
-import featuretools as ft
-from tkinter import filedialog
-import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-
+import tkinter as tk ,import pandas as pd ,
+import numpy as np ,
+from pandas import DataFrame ,
+import utils ,
+import featuretools as ft ,
+from tkinter import filedialog ,
+import matplotlib.pyplot as plt ,
+ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 
 
